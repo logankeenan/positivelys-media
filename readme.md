@@ -1,3 +1,5 @@
+See [Past Rust Experiments: Positivelys & Shared Spaces](https://logankeenan.com/posts/past-rust-experiments-positivelys-and-shared-spaces/) for more details
+
 Code for [https://positivelys.com](https://positivelys.com)
 
 Running Locally
